@@ -22,6 +22,6 @@ You can use this docker-compose to have l2tp/ipsec VPN and Mtproto proxy for tel
   $ docker-compose logs
   ```  
     
-**Note:** For more information visit this links:
+**Note:** For more information please visit these links:
 - https://github.com/hwdsl2/docker-ipsec-vpn-server
 - https://github.com/TelegramMessenger/MTProxy
